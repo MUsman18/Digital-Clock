@@ -11,5 +11,5 @@ This is a simple digital clock web application built using HTML, CSS, and JavaSc
 # Customization
 - You can customize the appearance of the clock by modifying the CSS styles in styles.css.
 - For advanced customization or additional features, feel free to modify the JavaScript code in script.js.
-#Contributions
+# Contributions
 Contributions are welcome! Feel free to fork this repository and submit a pull request with your improvements.
